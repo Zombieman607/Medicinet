@@ -1,0 +1,5 @@
+config.php
+*.aux
+*.log
+*.synctex.gz
+*.toc
